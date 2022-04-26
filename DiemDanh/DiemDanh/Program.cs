@@ -23,7 +23,7 @@ namespace DiemDanh
             public double C { get => c; set => c = value; }
             public double delta(double a, double b, double c)
             {
-                return a * b + c * c;
+                return b * b - 4 * c * a;
             }
             public double Nghiem(double a , double b , double c )
             {
