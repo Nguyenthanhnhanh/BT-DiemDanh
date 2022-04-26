@@ -1,0 +1,15 @@
+C:\Users\Thanh Nhanh\source\repos\DiemDanh\DiemDanh\bin\Debug\net6.0\DiemDanh.exe
+C:\Users\Thanh Nhanh\source\repos\DiemDanh\DiemDanh\bin\Debug\net6.0\DiemDanh.deps.json
+C:\Users\Thanh Nhanh\source\repos\DiemDanh\DiemDanh\bin\Debug\net6.0\DiemDanh.runtimeconfig.json
+C:\Users\Thanh Nhanh\source\repos\DiemDanh\DiemDanh\bin\Debug\net6.0\DiemDanh.dll
+C:\Users\Thanh Nhanh\source\repos\DiemDanh\DiemDanh\bin\Debug\net6.0\ref\DiemDanh.dll
+C:\Users\Thanh Nhanh\source\repos\DiemDanh\DiemDanh\bin\Debug\net6.0\DiemDanh.pdb
+C:\Users\Thanh Nhanh\source\repos\DiemDanh\DiemDanh\obj\Debug\net6.0\DiemDanh.csproj.AssemblyReference.cache
+C:\Users\Thanh Nhanh\source\repos\DiemDanh\DiemDanh\obj\Debug\net6.0\DiemDanh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thanh Nhanh\source\repos\DiemDanh\DiemDanh\obj\Debug\net6.0\DiemDanh.AssemblyInfoInputs.cache
+C:\Users\Thanh Nhanh\source\repos\DiemDanh\DiemDanh\obj\Debug\net6.0\DiemDanh.AssemblyInfo.cs
+C:\Users\Thanh Nhanh\source\repos\DiemDanh\DiemDanh\obj\Debug\net6.0\DiemDanh.csproj.CoreCompileInputs.cache
+C:\Users\Thanh Nhanh\source\repos\DiemDanh\DiemDanh\obj\Debug\net6.0\DiemDanh.dll
+C:\Users\Thanh Nhanh\source\repos\DiemDanh\DiemDanh\obj\Debug\net6.0\ref\DiemDanh.dll
+C:\Users\Thanh Nhanh\source\repos\DiemDanh\DiemDanh\obj\Debug\net6.0\DiemDanh.pdb
+C:\Users\Thanh Nhanh\source\repos\DiemDanh\DiemDanh\obj\Debug\net6.0\DiemDanh.genruntimeconfig.cache
