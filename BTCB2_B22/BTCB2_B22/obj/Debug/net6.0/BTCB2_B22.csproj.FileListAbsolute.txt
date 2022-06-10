@@ -1,0 +1,14 @@
+C:\Users\Thanh Nhanh\source\repos\BTCB2_B22\BTCB2_B22\bin\Debug\net6.0\BTCB2_B22.exe
+C:\Users\Thanh Nhanh\source\repos\BTCB2_B22\BTCB2_B22\bin\Debug\net6.0\BTCB2_B22.deps.json
+C:\Users\Thanh Nhanh\source\repos\BTCB2_B22\BTCB2_B22\bin\Debug\net6.0\BTCB2_B22.runtimeconfig.json
+C:\Users\Thanh Nhanh\source\repos\BTCB2_B22\BTCB2_B22\bin\Debug\net6.0\BTCB2_B22.dll
+C:\Users\Thanh Nhanh\source\repos\BTCB2_B22\BTCB2_B22\bin\Debug\net6.0\ref\BTCB2_B22.dll
+C:\Users\Thanh Nhanh\source\repos\BTCB2_B22\BTCB2_B22\bin\Debug\net6.0\BTCB2_B22.pdb
+C:\Users\Thanh Nhanh\source\repos\BTCB2_B22\BTCB2_B22\obj\Debug\net6.0\BTCB2_B22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thanh Nhanh\source\repos\BTCB2_B22\BTCB2_B22\obj\Debug\net6.0\BTCB2_B22.AssemblyInfoInputs.cache
+C:\Users\Thanh Nhanh\source\repos\BTCB2_B22\BTCB2_B22\obj\Debug\net6.0\BTCB2_B22.AssemblyInfo.cs
+C:\Users\Thanh Nhanh\source\repos\BTCB2_B22\BTCB2_B22\obj\Debug\net6.0\BTCB2_B22.csproj.CoreCompileInputs.cache
+C:\Users\Thanh Nhanh\source\repos\BTCB2_B22\BTCB2_B22\obj\Debug\net6.0\BTCB2_B22.dll
+C:\Users\Thanh Nhanh\source\repos\BTCB2_B22\BTCB2_B22\obj\Debug\net6.0\ref\BTCB2_B22.dll
+C:\Users\Thanh Nhanh\source\repos\BTCB2_B22\BTCB2_B22\obj\Debug\net6.0\BTCB2_B22.pdb
+C:\Users\Thanh Nhanh\source\repos\BTCB2_B22\BTCB2_B22\obj\Debug\net6.0\BTCB2_B22.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BTCB2_B22/1.0.0": {
+        "runtime": {
+          "BTCB2_B22.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BTCB2_B22/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
