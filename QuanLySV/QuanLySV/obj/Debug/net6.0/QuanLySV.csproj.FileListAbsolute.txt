@@ -1,0 +1,14 @@
+C:\Users\Thanh Nhanh\source\repos\QuanLySV\QuanLySV\bin\Debug\net6.0\QuanLySV.exe
+C:\Users\Thanh Nhanh\source\repos\QuanLySV\QuanLySV\bin\Debug\net6.0\QuanLySV.deps.json
+C:\Users\Thanh Nhanh\source\repos\QuanLySV\QuanLySV\bin\Debug\net6.0\QuanLySV.runtimeconfig.json
+C:\Users\Thanh Nhanh\source\repos\QuanLySV\QuanLySV\bin\Debug\net6.0\QuanLySV.dll
+C:\Users\Thanh Nhanh\source\repos\QuanLySV\QuanLySV\bin\Debug\net6.0\ref\QuanLySV.dll
+C:\Users\Thanh Nhanh\source\repos\QuanLySV\QuanLySV\bin\Debug\net6.0\QuanLySV.pdb
+C:\Users\Thanh Nhanh\source\repos\QuanLySV\QuanLySV\obj\Debug\net6.0\QuanLySV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thanh Nhanh\source\repos\QuanLySV\QuanLySV\obj\Debug\net6.0\QuanLySV.AssemblyInfoInputs.cache
+C:\Users\Thanh Nhanh\source\repos\QuanLySV\QuanLySV\obj\Debug\net6.0\QuanLySV.AssemblyInfo.cs
+C:\Users\Thanh Nhanh\source\repos\QuanLySV\QuanLySV\obj\Debug\net6.0\QuanLySV.csproj.CoreCompileInputs.cache
+C:\Users\Thanh Nhanh\source\repos\QuanLySV\QuanLySV\obj\Debug\net6.0\QuanLySV.dll
+C:\Users\Thanh Nhanh\source\repos\QuanLySV\QuanLySV\obj\Debug\net6.0\ref\QuanLySV.dll
+C:\Users\Thanh Nhanh\source\repos\QuanLySV\QuanLySV\obj\Debug\net6.0\QuanLySV.pdb
+C:\Users\Thanh Nhanh\source\repos\QuanLySV\QuanLySV\obj\Debug\net6.0\QuanLySV.genruntimeconfig.cache
