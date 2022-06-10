@@ -1,0 +1,14 @@
+C:\Users\Thanh Nhanh\source\repos\BTCB2_B33\BTCB2_B33\bin\Debug\net6.0\BTCB2_B33.exe
+C:\Users\Thanh Nhanh\source\repos\BTCB2_B33\BTCB2_B33\bin\Debug\net6.0\BTCB2_B33.deps.json
+C:\Users\Thanh Nhanh\source\repos\BTCB2_B33\BTCB2_B33\bin\Debug\net6.0\BTCB2_B33.runtimeconfig.json
+C:\Users\Thanh Nhanh\source\repos\BTCB2_B33\BTCB2_B33\bin\Debug\net6.0\BTCB2_B33.dll
+C:\Users\Thanh Nhanh\source\repos\BTCB2_B33\BTCB2_B33\bin\Debug\net6.0\ref\BTCB2_B33.dll
+C:\Users\Thanh Nhanh\source\repos\BTCB2_B33\BTCB2_B33\bin\Debug\net6.0\BTCB2_B33.pdb
+C:\Users\Thanh Nhanh\source\repos\BTCB2_B33\BTCB2_B33\obj\Debug\net6.0\BTCB2_B33.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thanh Nhanh\source\repos\BTCB2_B33\BTCB2_B33\obj\Debug\net6.0\BTCB2_B33.AssemblyInfoInputs.cache
+C:\Users\Thanh Nhanh\source\repos\BTCB2_B33\BTCB2_B33\obj\Debug\net6.0\BTCB2_B33.AssemblyInfo.cs
+C:\Users\Thanh Nhanh\source\repos\BTCB2_B33\BTCB2_B33\obj\Debug\net6.0\BTCB2_B33.csproj.CoreCompileInputs.cache
+C:\Users\Thanh Nhanh\source\repos\BTCB2_B33\BTCB2_B33\obj\Debug\net6.0\BTCB2_B33.dll
+C:\Users\Thanh Nhanh\source\repos\BTCB2_B33\BTCB2_B33\obj\Debug\net6.0\ref\BTCB2_B33.dll
+C:\Users\Thanh Nhanh\source\repos\BTCB2_B33\BTCB2_B33\obj\Debug\net6.0\BTCB2_B33.pdb
+C:\Users\Thanh Nhanh\source\repos\BTCB2_B33\BTCB2_B33\obj\Debug\net6.0\BTCB2_B33.genruntimeconfig.cache
